@@ -1,0 +1,16 @@
+os
+datetime
+pdf2docx
+tkinter
+Pillow
+pytesseract
+nltk
+gensim
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+beautifulsoup4
+ttkbootstrap
+click
+
+pip install -r requirements.txt
